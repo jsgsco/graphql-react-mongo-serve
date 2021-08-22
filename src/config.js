@@ -1,0 +1,1 @@
+export const DB = 'mongodb+srv://admin:johnsaa123@cluster0.jfth2.mongodb.net/graphql-react'
